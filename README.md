@@ -50,7 +50,7 @@ http://127.0.0.1:7860
 ## 🖼️ Screenshots
 
 ### 🔹 Main Interface
-![Main Interface](images/main_interface.png)
+![Main Interface](main_interface.png)
 
 ### 🔹 Summary Output Example
-![Summary Output](images/summary_output.png)
+![Summary Output](summary_output.png)
